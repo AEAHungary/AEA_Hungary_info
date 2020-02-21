@@ -9,7 +9,7 @@ A TOGAF 9.2 szabvány tartalom keretrendszerének megfelelő mappa struktúra é
 
 Egy minta repozitórium a TOGAF Content Framework alapján. A tartalom ArchiMate nyelven készült, az Archi eszközzel. Felhasználása esetén jelölje a forrást: https://github.com/viraghtamasjozsef/togaf-cf-in-archimate.git
 
-A cél egy egy magyar nyelvű diagram gyüjteményt tartalmazó architektúra repozitórium létrehozása volt, ami mintaként használható. Ezzel együtt egy olyan struktúra létrehozása is cél volt, ami újrafelhasználással munkát takarít meg az ArchiMate nyelven történő architektúra tervek készítésekor a hazai gyakorló architekteknek.
+A cél egy magyar nyelvű diagram gyüjteményt tartalmazó architektúra repozitórium létrehozása volt, ami mintaként használható. Ezzel együtt egy olyan struktúra létrehozása is cél volt, ami újrafelhasználással munkát takarít meg az ArchiMate nyelven történő architektúra tervek készítésekor a hazai gyakorló architekteknek.
 
 Mintegy 40 darab ArchiMate nézetet (View) tartalmaz ez a repozitórium. Ezek nagyon egyszerű példák az összes diagramra, amely a TOGAF 9.2 szabvány Content Framework fejezetében szerepel. Mindegyiknél ki van választva a célszerű ArchiMate Viewpoint és a Documentation mező tartalmaz egy pár mondatos magyar nyelvű leírást az adott nézetről. A nézetek tartalma minden esetben minimális, csak a szemléltetéshez elengedhetetlenül szükséges néhány elem és azok kapcsolatai szerepelnek a nézeteken. Újrafelhasználás esetén ezek könnyen törölhetők és a valódi tartalmak rögzíthetők.
 
