@@ -1,6 +1,4 @@
 # AEA_Hungary_info
-General information in connection with AEA Hungarian Chapter
-
 Az AEA Magyar Tagozat tagjainak szóló "ajándék", azaz ingyenesen elérhető, letölthető tartalom:
 
 # TOGAF artifakt példák ArchiMate nyelven
