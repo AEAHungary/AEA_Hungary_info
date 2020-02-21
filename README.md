@@ -3,7 +3,7 @@ General information in connection with AEA Hungarian Chapter
 
 Az AEA Magyar Tagozat tagjainak szóló "ajándék", azaz ingyenesen elérhető, letölthető tartalom:
 
-# H1 TOGAF artifakt példák ArchiMate nyelven
+# TOGAF artifakt példák ArchiMate nyelven
 
 A TOGAF 9.2 szabvány tartalom keretrendszerének megfelelő mappa struktúra és egyszerű nézet minták ArchiMate nyelven az Archi nyílt forráskódú alkalmazásban
 
